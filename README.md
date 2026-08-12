@@ -1,4 +1,4 @@
-  ## Data Mining and Machine Learning Assignment
+  ## Data Mining and Machine Learning 
 
 ## Project Title
 Heart Disease Classification Using Machine Learning Models
